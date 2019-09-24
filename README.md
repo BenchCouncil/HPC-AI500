@@ -5,17 +5,17 @@ With the trend of applying deep learning (DL) in high performance scientific com
 Recent years, DL has replaced traditional scientific computing methods and becomes a promising tool in several scientific computing fields especially in extreme weather analysis, cosmology, and high energy physics.  
 
 ## Extreme Weather Analysis (EWA)
-![EWA](./images/ewa.png)
+![EWA](./README_images/ewa.png)
 
 ## Cosmology (Cos)
-![COSMOLOGY](./images/cosmology.png)
+![COSMOLOGY](./README_images/cosmology.png)
 
 ## High Engergy Physics (HEP)
-![HEP](./images/hep.png)
+![HEP](./README_images/hep.png)
 
 # Benchmarking Methodology
 As HPC AI is an emerging and evolving domain, we take an incremental and iterative approach.
-![MYTH](./images/methodology.png)
+![MYTH](./README_images/methodology.png)
 
 For workloads diversity, we map the scientific deep learning task to classical AI problems. 
 
@@ -130,6 +130,17 @@ Most of the existing AI benchmarks are based on commercial scenarios. Deep500 is
 
 # Refference Implementation
 Currently, we provide a scalable reference implementation of EWA workloads, see <a href="http://125.39.136.212:8090/XW.Xiong/EWA">EWA workload</a>.
+
+# Citation
+Please cite `HPC AI500` in your publications if it helps your research:
+```
+@article{jiang2019hpc,
+  title={HPC AI500: a benchmark suite for HPC AI systems},
+  author={Jiang, Zihan and Gao, Wanling and Wang, Lei and Xiong, Xingwang and Zhang, Yuchen and Wen, Xu and Luo, Chunjie and Ye, Hainan and Zhang, Yunquan and Feng, Shengzhong and others},
+  booktitle={BenchCouncil International Symposium on Benchmarking, Measuring and Optimizing (Bench18)},
+  year={2019}
+}
+```
 # Contributing
 HPC AI500 is an open-source project. We are looking forward to accept Pull Request to improve this project.
 
