@@ -128,7 +128,7 @@ Most of the existing AI benchmarks are based on commercial scenarios. Deep500 is
      </TR>
 </table>
 
-# Refference Implementation
+# Reference Implementation
 Currently, we provide a scalable reference implementation of EWA workloads, see <a href="http://125.39.136.212:8090/XW.Xiong/EWA">EWA workload</a>.
 
 # Citation
