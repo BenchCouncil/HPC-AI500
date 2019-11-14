@@ -129,7 +129,8 @@ Most of the existing AI benchmarks are based on commercial scenarios. Deep500 is
 </table>
 
 # Reference Implementation
-Currently, we provide a scalable reference implementation of EWA workloads, see <a href="http://125.39.136.212:8090/XW.Xiong/EWA">EWA workload</a>.
+Currently, we open source a scalable reference implementation of EWA workloads, see <a href="http://125.39.136.212:8090/XW.Xiong/EWA">EWA workload</a>.
+We also open source the micro benchmark of MKL and CUDA version, see <a href="http://125.39.136.212:8090/hpc-ai500/hpc-ai500-benchmark/tree/master/micro_benchmarks">Micro Benchmark</a>.
 
 # Citation
 Please cite `HPC AI500` in your publications if it helps your research:
