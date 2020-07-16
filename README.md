@@ -9,3 +9,4 @@ Specification website: https://www.benchcouncil.org/HPCAI500/specification.html.
 The First HPC AI500 Ranking Released. Fujistu system ranks first among all HPC AI systems, achieving 31.41 Valid PFLOPS (a new metric considering both FLOPS and target quality) using ImageNet/ResNet50.
 Ranking website: https://www.benchcouncil.org/HPCAI500/ranking.html.
 
+
