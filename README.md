@@ -1,5 +1,5 @@
 # Introduction
-HPC AI500 V2.0: a comprehensive methodology, tools, Roofline performance models, and innovative metrics for benchmarking, optimizing, and ranking HPC AI systems. More details see HPC AI500 V2.0 techinical report : https://www.benchcouncil.com/file/HPC_AI500TR.pdf. 
+HPC AI500 V2.0: a comprehensive methodology, tools, Roofline performance models, and innovative metrics for benchmarking, optimizing, and ranking HPC AI systems. More details see HPC AI500 V2.0 techinical report : https://www.benchcouncil.org/file/HPC_AI500TR.pdf. 
 
 # Specification
 
